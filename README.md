@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Javi Perelda  
 
-<!--
-**javiperelda/javiperelda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Software** con experiencia en proyectos web, backend y automatizaciones.  
+Apasionado por el desarrollo de soluciones eficientes, escalables y conectadas con hardware e IoT.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías
+`Java` · `Hibernate` · `PostgreSQL` · `Python` · `FastAPI` · `SQLAlchemy` · `React.js` · `Vite.js` · `Selenium` · `C++` · `Git` · `GitHub`
+
+---
+
+### 🧩 Proyectos Destacados
+- 🔗 **Sistema de gestión con Java + Hibernate + PostgreSQL**  
+  Backend completo con autenticación y CRUD de clientes, pólizas y siniestros.  
+
+- 🤖 **Automatización con Selenium + FastAPI**  
+  Bot que descarga y procesa información de distintas fuentes, expuesta vía API REST.  
+
+- 🌐 **Dashboard IoT con ESP32 + React.js**  
+  Proyecto personal para monitorear datos de sensores desde interfaz web en tiempo real.  
+
+---
+
+📫 **Contacto:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)  
+🌍 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
