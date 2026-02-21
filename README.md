@@ -65,11 +65,11 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 - Gestión completa del ciclo de desarrollo: análisis, diseño, implementación, control de versiones y despliegue.
 
 ## Tecnologías
-**Tecnologías:** Python, Java, C#, React.js
-**Automatización/Test:** Python (Libreria Selenium)  
-**Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase  
-**Control de versiones:** Git, GitHub
-**IOT:** C++ 
+- **Tecnologías:** Python, Java, C#, React.js
+- **Automatización/Test:** Python (Libreria Selenium)  
+- **Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase  
+- **Control de versiones:** Git, GitHub
+- **IOT/Domótica:** C++ 
 
 ---
 
