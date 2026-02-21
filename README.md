@@ -18,7 +18,7 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 
 ### 1) **"GastaderoApp"**
 - **GastaderoApp** es una aplicación web para organizar gastos compartidos entre varias personas. Permite iniciar sesión con Google, crear grupos, compartir un enlace para que todos registren gastos, y calcular automáticamente cuánto debe o recibe cada integrante con una simplificación de pagos para reducir transferencias; además incluye historial de grupos, exportación del resumen en JPG.
-- **Stack:** React 19 + TypeScript + Vite / Matarial UI (MUI) - React Hot Toast / Firebase
+- **Stack:** React 19 + TypeScript + Vite / Matarial UI (MUI) / Firebase
 - **Demo:** https://gastadero-brown.vercel.app/
 
 ### 2) Proyecto: Nombre del proyecto
