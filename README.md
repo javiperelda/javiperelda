@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Javier Perelda — Programador / Software Developer 
+# 👋 Javier Perelda — Programador / Software Developer 
 
 💻 **Desarrollador de Software** con experiencia en proyectos web, backend y automatizaciones.  
 Apasionado por la domótica y por construir soluciones eficientes, escalables e integradas con hardware.  
