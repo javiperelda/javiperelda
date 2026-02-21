@@ -1,17 +1,16 @@
-# 👋 ¡Hola! Soy Javi Perelda — Programador / Software Developer 
+# 👋 ¡Hola! Soy Javier Perelda — Programador / Software Developer 
 
 💻 **Desarrollador de Software** con experiencia en proyectos web, backend y automatizaciones.  
-Apasionado por el desarrollo de soluciones eficientes, escalables y conectadas con hardware e IoT.  
+Apasionado por la domótica y por construir soluciones eficientes, escalables e integradas con hardware.  
 
 📍 Villa María, Córdoba (AR) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com  
-🌐 Portfolio: https://TU-USUARIO.github.io · 💼 LinkedIn: https://linkedin.com/in/TU-LINK  
-📄 CV (PDF): ./assets/CV_Javier_Perelda_Torres.pdf
+🌐 Portfolio: https://javiperelda.github.io · 💼 LinkedIn: https://linkedin.com/in/javiperelda  
 
 ---
 
 ## Sobre mí
-Apasionado por la tecnología, la informática y la electrónica. Trabajo desde 2016 en el desarrollo de soluciones **web, backend y escritorio**, además de **automatización de procesos** y la domótica.  
-Me considero una persona **autodidacta, curiosa y comprometida**, siempre buscando nuevos desafíos que me permitan seguir creciendo como desarrollador y aportar valor a los proyectos en los que participo.
+Apasionado por la tecnología, la informática y la electrónica, disfruto aprender y desarrollar soluciones que unan creatividad con funcionalidad. Soy estudiante avanzado de Ingeniería en Sistemas de Información y desde 2016 trabajo de forma independiente en proyectos de desarrollo de aplicaciones web, escritorio, automatizaciones y sistemas integrados con microcontroladores.
+Me considero una persona autodidacta, curiosa y comprometida, siempre buscando nuevos desafíos que me permitan seguir creciendo como desarrollador y aportar valor a los proyectos en los que participo.
 
 ---
 
