@@ -21,11 +21,11 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 - **Stack:** React 19 + TypeScript + Vite / Matarial UI (MUI) / Firebase
 - **Demo:** https://gastadero-brown.vercel.app/
 
-### 2) Proyecto: Nombre del proyecto
-- **Qué hace:**
-- **Stack:**
-- **Repo:**
-- **Demo:**
+### 2) **"Trunero Digital - Padel"**
+- **Turnero Digital - Padel** es una aplicación para gestionar reservas de canchas por franjas horarias, muestra una agenda diaria por fecha, genera horarios según la configuración del negocio, marca estados de cada turno (disponible, reservado, en curso, finalizado o no disponible) y permite reservar con confirmación y teléfono de contacto. Incluye autenticación (Google o modo demo por credenciales), manejo de roles (usuario y administrador), historial personal de turnos con opción de cancelación, y un panel administrativo con métricas del mes (cantidad de turnos, ingresos y jugadores), listado de turnos del día y próximos turnos, también con acciones de cancelación. Además, tiene módulo de configuración para definir importe, rango horario, duración de turnos y bloqueo global de la agenda.
+- **Stack:** React 18 + Vite / Bootstrap 5 / React Router / Redux + Thunk / Firebase (Auth + Firestore) 
+- **Librerías:** Formik, moment-timezone, Chart.js, SweetAlert2, react-hot-toast
+- **Demo:** https://turnero-digital-deportes.vercel.app/
 
 ### 3) Proyecto: Nombre del proyecto
 - **Qué hace:**
