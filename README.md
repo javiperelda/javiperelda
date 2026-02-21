@@ -89,4 +89,5 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 
 ## Contacto
 - ✉️ javierperelda93@gmail.com
+- 📞 (0353) 152403325
 - 📍 Villa María, Córdoba (AR)
