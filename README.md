@@ -14,6 +14,8 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 
 ---
 
+## Proyectos
+
 ### 1) Proyecto: Nombre del proyecto
 - **Qué hace:** (1 línea clara del problema que resuelve)
 - **Stack:** (ej: React + Vite / FastAPI / PostgreSQL)
@@ -51,7 +53,7 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 - Estimaciones técnicas y planificación de tareas, coordinando implementación de funcionalidades y optimizaciones.
 - Coordinación con diferentes áreas para asegurar coherencia e integración del módulo logístico con el sistema.
 
-**Tecnologías:** Clarion, Oracle, SQL Server, PL/SQL, SQL, Git, GitHub, Jira
+**Tecnologías:** Clarion, C#, Oracle, SQL Server, PL/SQL, SQL, Git, GitHub, Jira
 
 ---
 
