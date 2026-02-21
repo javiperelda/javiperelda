@@ -44,7 +44,7 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 
 ## Experiencia
 
-### BITS S.A — Villa María, Cba (Nov 2017 – Actualidad)
+### BITS S.A — Villa María, Cba. (Nov 2017 – Actualidad)
 **Developer / Analista Funcional — Encargado de Módulo Logística**
 - Diseño, desarrollo y mantenimiento de **interfaces, packages, funciones, triggers, stored procedures y jobs** en **Oracle** y **SQL Server** (SQL / PL/SQL).
 - Diseño, desarrollo y mantenimiento de **interfaces** en *C#*.
