@@ -16,9 +16,9 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 
 ## Proyectos
 
-### 1) Proyecto: GastaderoApp
-- **Qué hace:** (1 línea clara del problema que resuelve)
-- **Stack:** (ej: React + Vite / Matarial UI / Firebase)
+### 1) Proyecto: **GastaderoApp**
+- **Qué hace:** Control de gastos - Crea grupos, calcula gastos compartidos, simplifica division de gastos y pagos.
+- **Stack:** React + Vite / Matarial UI / Firebase
 - **Demo:** https://gastadero-brown.vercel.app/
 
 ### 2) Proyecto: Nombre del proyecto
