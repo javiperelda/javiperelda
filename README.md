@@ -10,8 +10,8 @@ Apasionado por el desarrollo de soluciones eficientes, escalables y conectadas c
 ---
 
 ## Sobre mí
-Apasionado por la tecnología, la informática y la electrónica. Trabajo desde 2016 en el desarrollo de soluciones **web, backend y escritorio**, además de **automatización de procesos** e integraciones.  
-Me considero una persona **autodidacta, curiosa y comprometida**, orientada a aportar valor real en los proyectos y a mejorar continuamente.
+Apasionado por la tecnología, la informática y la electrónica. Trabajo desde 2016 en el desarrollo de soluciones **web, backend y escritorio**, además de **automatización de procesos** y la domótica.  
+Me considero una persona **autodidacta, curiosa y comprometida**, siempre buscando nuevos desafíos que me permitan seguir creciendo como desarrollador y aportar valor a los proyectos en los que participo.
 
 ---
 
@@ -46,6 +46,7 @@ Me considero una persona **autodidacta, curiosa y comprometida**, orientada a ap
 ### BITS S.A — Villa María, Cba (Nov 2017 – Actualidad)
 **Developer / Analista Funcional — Encargado de Módulo Logística**
 - Diseño, desarrollo y mantenimiento de **interfaces, packages, funciones, triggers, stored procedures y jobs** en **Oracle** y **SQL Server** (SQL / PL/SQL).
+- Diseño, desarrollo y mantenimiento de **interfaces** en *C#*.
 - Desarrollo en **Clarion** de sistemas internos de escritorio (ADMIS) para la gestión del negocio agroindustrial, especialmente en **logística, acopios y puertos**.
 - Relevamiento y análisis de requerimientos: entrevistas con clientes, investigación y documentación de procesos.
 - Estimaciones técnicas y planificación de tareas, coordinando implementación de funcionalidades y optimizaciones.
@@ -64,29 +65,19 @@ Me considero una persona **autodidacta, curiosa y comprometida**, orientada a ap
 - Proyectos **IoT / Domótica** con microcontroladores integrados a plataformas web para monitoreo y control remoto.
 - Gestión completa del ciclo de desarrollo: análisis, diseño, implementación, control de versiones y despliegue.
 
+## Tecnologías
+**Tecnologías:** Python, Java, C#, React.js
+**Automatización/Test:** Python (Libreria Selenium)  
+**Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase  
+**Control de versiones:** Git, GitHub
+**IOT:** C++ 
+
 ---
 
 ## Educación
-- **Ingeniería en Sistemas de Información** — UTN FRVM, Villa María (2013 – 2023)
 - **Instituto Gral. Manuel Belgrano** — Puerto del Molle, Córdoba (2004 – 2010)
+- **Ingeniería en Sistemas de Información** — UTN FRVM, Villa María (2013 – 2023)
 - **Curso complementario:** Experto en Project Management — UTN FRBA
-
----
-
-## Tecnologías
-**Backend:** Python, FastAPI, SQLAlchemy  
-**Frontend:** React.js  
-**Automatización/Test:** Selenium  
-**Bases de datos:** PostgreSQL, Oracle, SQL Server  
-**Otros:** Java, C++, Git, GitHub, Firebase
-
----
-
-## Habilidades
-- Buena comunicación
-- Gestión de equipos
-- Resolución de problemas
-- Siempre con predispuesto a aprender
 
 ---
 
