@@ -33,12 +33,6 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 - **Stack:** Python (FastAPI) / PostgreSQL / Telegram Bot / React + Vite / OpenAI (IA) / Google Calendar (sincronización) / Autenticación JWT / Scheduler de recordatorios (jobs en segundo plano)
 - **Repositorio:** https://github.com/javiperelda/Remember-me.git
 
-### 4) (Opcional) Proyecto: Nombre del proyecto
-- **Qué hace:**
-- **Stack:**
-- **Repo:**
-- **Demo:**
-
 ---
 
 ## Experiencia
