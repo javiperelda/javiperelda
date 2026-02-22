@@ -28,11 +28,10 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 - **Librerías:** Formik, moment-timezone, Chart.js, SweetAlert2, react-hot-toast
 - **Demo:** https://turnero-digital-deportes.vercel.app/
 
-### 3) Proyecto: Nombre del proyecto
-- **Qué hace:**
-- **Stack:**
-- **Repo:**
-- **Demo:**
+### 3) **"Remember-me"**
+- **Remember-me** es una aplicación para gestionar recordatorios y eventos de forma simple. Permite cargar tareas escribiendo en lenguaje natural desde un bot de Telegram (por ejemplo: “mañana reunión a las 15”) cuenta con una IA que interpreta texto natural, consultar la agenda por día/semana/mes y recibir avisos antes de cada evento. Incluye sincronización opcional con **Google Calendar** para mantener todo actualizado.Además, ejecuta tareas en segundo plano para enviar avisos de próximos eventos y mantener la sincronización periódica.
+- **Stack:** Python (FastAPI) / PostgreSQL / Telegram Bot / React + Vite / OpenAI (IA) / Google Calendar (sincronización) / Autenticación JWT / Scheduler de recordatorios (jobs en segundo plano)
+- **Repositorio:** https://github.com/javiperelda/Remember-me.git
 
 ### 4) (Opcional) Proyecto: Nombre del proyecto
 - **Qué hace:**
