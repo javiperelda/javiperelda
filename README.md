@@ -34,7 +34,7 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 - **Repositorio:** https://github.com/javiperelda/Remember-me.git
 
 
-### 3) **"STecnico"**
+### 4) **"STecnico"**
 - **STecnico** es una aplicacion de escritorio desarrollada en Java para administrar la operatoria de un servicio tecnico de equipos y la gestion de clientes, tecnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar informacion del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicacion se conecta a una base de datos PostgreSQL y complementa la gestion con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de informacion para uso administrativo.
 - **Stack:** Java / Java Swing / PostgreSQL / JasperReports 4.0.2
 - **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
