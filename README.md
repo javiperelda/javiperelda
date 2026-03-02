@@ -74,7 +74,7 @@ Me considero una persona autodidacta, curiosa y comprometida, siempre buscando n
 ---
 
 ## Educación
-- **Instituto Gral. Manuel Belgrano** — Puerto del Molle, Córdoba (2004 – 2010)
+- **Instituto Gral. Manuel Belgrano** — Pozo del Molle, Córdoba (2004 – 2010)
 - **Ingeniería en Sistemas de Información** — UTN FRVM, Villa María (2013 – 2023)
 - **Curso complementario:** Experto en Project Management — UTN FRBA
 
