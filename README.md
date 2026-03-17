@@ -9,7 +9,7 @@ Apasionado por el software, domótica y por construir soluciones eficientes y es
 ---
 
 ## Sobre mí
-Apasionado por la tecnología, la informática y la electrónica. Soy estudiante avanzado de Ingeniería en Sistemas de Información (UTN) y cuento con más de 8 años de experiencia en desarrollo de software, creando aplicaciones web y de escritorio, automatizaciones y soluciones integradas con microcontroladores/IoT.
+Apasionado por la tecnología. Soy estudiante avanzado de Ingeniería en Sistemas de Información (UTN) y cuento con más de 8 años de experiencia en desarrollo de software, creando aplicaciones web y de escritorio, automatizaciones y soluciones integradas con microcontroladores/IoT.
  Me caracterizo por ser autodidacta, curioso y comprometido, con foco en crear productos útiles, claros y mantenibles, aportando valor en cada proyecto y siempre en busca de nuevos desafíos.
 
 ---
