@@ -1,4 +1,4 @@
-# Javier Perelda — Software Developer Full Stack 
+# Javier Perelda — Programador / Software Developer
 
 💻 **Desarrollador Full Satck** con experiencia en proyectos web, backend y automatizaciones.  
 Apasionado por el software, domótica y por construir soluciones eficientes y escalables.  
