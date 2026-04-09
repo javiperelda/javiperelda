@@ -16,25 +16,25 @@ Apasionado por la tecnología. Soy estudiante avanzado de Ingeniería en Sistema
 
 ## Proyectos
 
-### :star: [GastaderoApp](https://gastadero-brown.vercel.app)
+### :rocket: [GastaderoApp](https://gastadero-brown.vercel.app)
 - **GastaderoApp** es una aplicación web para organizar gastos compartidos entre varias personas. Permite iniciar sesión con Google, crear grupos, compartir un enlace para que todos registren gastos, y calcular automáticamente cuánto debe o recibe cada integrante con una simplificación de pagos para reducir transferencias; además incluye historial de grupos y exportación del resumen en JPG.
 - **Stack:** React + TypeScript + Vite / Material UI (MUI) / React Router / Firebase (Auth + Firestore) 
 - **Librerías:** react-hot-toast
 - **Demo:** https://gastadero-brown.vercel.app/
 
-### :star: [Trunero Padel](https://turnero-digital-deportes.vercel.app)
+### :rocket: [Trunero Padel](https://turnero-digital-deportes.vercel.app)
 - **Turnero Digital - Padel** es una aplicación para gestionar reservas de canchas por franjas horarias, muestra una agenda diaria por fecha, genera horarios según la configuración del negocio, marca estados de cada turno (disponible, reservado, en curso, finalizado o no disponible) y permite reservar con confirmación y teléfono de contacto. Incluye autenticación (Google o modo demo por credenciales), manejo de roles (usuario y administrador), historial personal de turnos con opción de cancelación, y un panel administrativo con métricas del mes (cantidad de turnos, ingresos y jugadores), listado de turnos del día y próximos turnos, también con acciones de cancelación. Además, tiene módulo de configuración para definir importe, rango horario, duración de turnos y bloqueo global de la agenda.
 - **Stack:** React + Vite / Bootstrap 5 / React Router / Redux + Thunk / Firebase (Auth + Firestore) 
 - **Librerías:** Formik, moment-timezone, Chart.js, SweetAlert2, react-hot-toast
 - **Demo:** https://turnero-digital-deportes.vercel.app/
 
-### :star: [Remember-me](https://github.com/javiperelda/Remember-me.git)
+### :rocket: [Remember-me](https://github.com/javiperelda/Remember-me.git)
 - **Remember-me** es una aplicación para gestionar recordatorios y eventos de forma simple. Permite cargar tareas escribiendo en lenguaje natural desde un bot de Telegram (por ejemplo: “mañana reunión a las 15”) cuenta con una IA que interpreta texto natural, consultar la agenda por día/semana/mes y recibir avisos antes de cada evento. Incluye sincronización opcional con **Google Calendar** para mantener todo actualizado.Además, ejecuta tareas en segundo plano para enviar avisos de próximos eventos y mantener la sincronización periódica.
 - **Stack:** Python (FastAPI) / PostgreSQL / Telegram Bot / React + Vite / OpenAI (IA) / Google Calendar (sincronización) / Autenticación JWT / Scheduler de recordatorios (jobs en segundo plano)
 - **Repositorio:** https://github.com/javiperelda/Remember-me.git
 
 
-### :star: [Servicio Tecnico](https://github.com/javiperelda/servicio-tecnico.git)
+### :rocket: [Servicio Tecnico](https://github.com/javiperelda/servicio-tecnico.git)
 - **STecnico** es una aplicacion de escritorio desarrollada en Java para administrar la operatoria de un servicio tecnico de equipos y la gestion de clientes, tecnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar informacion del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicacion se conecta a una base de datos PostgreSQL y complementa la gestion con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de informacion para uso administrativo.
 - **Stack:** Java / Java Swing / PostgreSQL / JasperReports 4.0.2
 - **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
