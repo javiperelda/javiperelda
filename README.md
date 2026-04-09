@@ -56,13 +56,12 @@ Apasionado por la tecnología. Soy estudiante avanzado de Ingeniería en Sistema
 ---
 
 ### Desarrollador de Software Freelance (2016 – Actualidad)
-- Desarrollo de soluciones a medida **web, escritorio y backend** y proyectos de **automatización**.
-- Aplicaciones de escritorio orientadas a gestión y procesamiento de datos.
+- Desarrollo de soluciones **web, backend y escritorio**.
+- Diseño e implementación de APIs REST e integraciones con bases de datos.
 - Desarrollo de **APIs REST** para integración de servicios y bases de datos.
-- Aplicaciones web dinámicas conectadas a APIs propias y de terceros.
-- Automatizaciones para extracción y procesamiento de información desde diversas fuentes/plataformas.
-- Proyectos **IoT / Domótica** con microcontroladores integrados a plataformas web para monitoreo y control remoto.
-- Gestión completa del ciclo de desarrollo: análisis, diseño, implementación, control de versiones y despliegue.
+- Automatización de procesos, integración de sistemas y extracción de información desde distintas plataformas.
+- Desarrollo de proyectos IoT/domótica con microcontroladores integrados a aplicaciones web y APIs REST.
+- Ciclo completo de desarrollo: análisis, diseño, implementación, versionado y despliegue.
 
 ## Tecnologías
 - **Tecnologías:** Python, Java, C#, React.js
