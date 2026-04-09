@@ -16,7 +16,7 @@ Apasionado por la tecnología. Soy estudiante avanzado de Ingeniería en Sistema
 
 ## Proyectos
 
-### 1) **"GastaderoApp"**
+### 1) [GastaderoApp](https://gastadero-brown.vercel.app)
 - **GastaderoApp** es una aplicación web para organizar gastos compartidos entre varias personas. Permite iniciar sesión con Google, crear grupos, compartir un enlace para que todos registren gastos, y calcular automáticamente cuánto debe o recibe cada integrante con una simplificación de pagos para reducir transferencias; además incluye historial de grupos y exportación del resumen en JPG.
 - **Stack:** React + TypeScript + Vite / Material UI (MUI) / React Router / Firebase (Auth + Firestore) 
 - **Librerías:** react-hot-toast
