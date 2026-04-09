@@ -1,6 +1,6 @@
 # Javier Perelda — Programador / Software Developer 
 
-💻 **Desarrollador de Software** con experiencia en proyectos web, backend y automatizaciones.  
+💻 **Desarrollador Full Satck** con experiencia en proyectos web, backend y automatizaciones.  
 Apasionado por el software, domótica y por construir soluciones eficientes y escalables.  
 
 📍 Villa María, Córdoba (AR) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com  
