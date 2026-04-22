@@ -1,6 +1,6 @@
-# Javier Perelda — Desarrollador Backed / Full Stack
+# Javier Perelda — Desarrollador Backend / Full Stack
 
-💻 **Desarrollador Backed / Full Stack** con experiencia en proyectos web, backend y automatizaciones.  
+💻 **Desarrollador Backend / Full Stack** con experiencia en proyectos web, backend y automatizaciones.  
 Apasionado por el software, domótica y por construir soluciones eficientes y escalables.  
 
 📍 Villa María, Córdoba (ARG) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com · 💼 LinkedIn: [linkedin.com/in/javiperelda](https://linkedin.com/in/javiperelda)  
