@@ -3,8 +3,7 @@
 💻 **Desarrollador Backed / Full Stack** con experiencia en proyectos web, backend y automatizaciones.  
 Apasionado por el software, domótica y por construir soluciones eficientes y escalables.  
 
-📍 Villa María, Córdoba (AR) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com  
-🌐 Portfolio: https://javiperelda.github.io · 💼 LinkedIn: https://linkedin.com/in/javiperelda  
+📍 Villa María, Córdoba (AR) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com · 💼 LinkedIn: [linkedin.com/in/javiperelda](https://linkedin.com/in/javiperelda)  
 
 ---
 
