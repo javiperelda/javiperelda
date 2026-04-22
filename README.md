@@ -42,10 +42,6 @@ visión técnica y funcional para desarrollar soluciones claras y mantenibles.
 - **Servicio Tecnico** es una aplicacion de escritorio desarrollada en Java para administrar la operatoria de un servicio tecnico de equipos y la gestion de clientes, tecnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar informacion del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicacion se conecta a una base de datos PostgreSQL y complementa la gestion con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de informacion para uso administrativo.
 - **Stack:** Java / Java Swing / PostgreSQL / JasperReports 4.0.2
 - **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
-
-- **Riego Automático IoT** es un sistema de riego inteligente que integra una aplicación web, una API y un dispositivo físico basado en ESP32 para automatizar y controlar el riego de forma remota. Permite registrar usuarios, dar de alta dispositivos, vincular cada regador mediante un device_id y una device_key, configurar horarios y duración de riegos, ejecutar riego manual desde la web, visualizar el estado online/offline del dispositivo y consultar auditorías de cada ejecución. El proyecto también incluye el prototipo físico del regador, compuesto por una ESP32, relé, bomba de agua, regulador LM2596 y una carcasa diseñada e impresa en 3D con un sistema de encastres para cada uno de los módulos.
-- **Stack:** React + Vite / Material UI (MUI) / React Router / FastAPI / PostgreSQL / SQLAlchemy / JWT / ESP32 (C++)
-- **Repositorio:** 
 ---
 
 ## Experiencia
