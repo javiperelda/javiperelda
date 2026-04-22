@@ -1,6 +1,6 @@
-# Javier Perelda — Programador / Software Developer
+# Javier Perelda — Software Developer
 
-💻 **Desarrollador Full Satck** con experiencia en proyectos web, backend y automatizaciones.  
+💻 **Desarrollador Backed / Full Stack** con experiencia en proyectos web, backend y automatizaciones.  
 Apasionado por el software, domótica y por construir soluciones eficientes y escalables.  
 
 📍 Villa María, Córdoba (AR) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com  
@@ -9,8 +9,13 @@ Apasionado por el software, domótica y por construir soluciones eficientes y es
 ---
 
 ## Sobre mí
-Apasionado por la tecnología. Soy estudiante avanzado de Ingeniería en Sistemas de Información (UTN) y cuento con más de 8 años de experiencia en desarrollo de software, creando aplicaciones web y de escritorio, automatizaciones y soluciones integradas con microcontroladores/IoT.
- Me caracterizo por ser autodidacta, curioso y comprometido, siempre enfocado en crear productos útiles y mantenibles, aportando valor en cada proyecto y siempre en busca de nuevos desafíos.
+Desarrollador de software con más de 8 años de experiencia, actualmente desempeñándome como
+Desarrollador de Software / Analista Funcional, con foco en backend, bases de datos y lógica de
+negocio. Cuento con experiencia en el desarrollo, mantenimiento e integración de interfaces,
+procesos y procedimientos, además de conocimientos en bases de datos relacionales y no
+relacionales. También tengo experiencia en desarrollo full stack, creando APIs, aplicaciones web,
+automatizaciones y soluciones integradas con microcontroladores/IoT. Me destaco por combinar
+visión técnica y funcional para desarrollar soluciones claras y mantenibles.
 
 ---
 
