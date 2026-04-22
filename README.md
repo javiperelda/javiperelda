@@ -44,10 +44,10 @@ visión técnica y funcional para desarrollar soluciones claras y mantenibles.
 - **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
 
 
-### :star: [Riego Automático IoT](https://github.com/javiperelda/servicio-tecnico.git)
+### :star: [Riego Automático IoT](https://github.com/javiperelda/riego-automatico-IoT.git)
 - **Riego Automático IoT** es un sistema de riego inteligente que integra una aplicación web, una API y un dispositivo físico basado en ESP32 para automatizar y controlar el riego de forma remota. Permite registrar usuarios, dar de alta dispositivos, vincular cada regador mediante un device_id y una device_key, configurar horarios y duración de riegos, ejecutar riego manual desde la web, visualizar el estado online/offline del dispositivo y consultar auditorías de cada ejecución. El proyecto también incluye el prototipo físico del regador, compuesto por una ESP32, relé, bomba de agua, regulador LM2596 y una carcasa diseñada e impresa en 3D con un sistema de encastres para cada uno de los módulos.
 - **Stack:** React + Vite / Material UI (MUI) / React Router / FastAPI / PostgreSQL / SQLAlchemy / JWT / ESP32 (C++)
-- **Repositorio:** 
+- **Repositorio:** https://github.com/javiperelda/riego-automatico-IoT.git
 ---
 
 ## Experiencia
