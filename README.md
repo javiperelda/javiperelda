@@ -76,7 +76,7 @@ visión técnica y funcional para desarrollar soluciones claras y mantenibles.
 ## Tecnologías
 - **Tecnologías:** Python, Java, C#, React.js
 - **Automatización/Test:** Python (Libreria Selenium)  
-- **Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase  
+- **Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase y MongoDB.  
 - **Control de versiones:** Git, GitHub
 - **IOT/Domótica:** C++ 
 
