@@ -9,12 +9,12 @@ Apasionado por el software, domótica y por construir soluciones soluciones clar
 
 ## Sobre mí
 Desarrollador de software con más de 8 años de experiencia, actualmente desempeñándome como
-Desarrollador de Software / Analista Funcional, con foco en backend, bases de datos y lógica de
-negocio. Cuento con experiencia en el desarrollo, mantenimiento e integración de interfaces,
-procesos y procedimientos, además de conocimientos en bases de datos relacionales y no
-relacionales. También tengo experiencia en desarrollo full stack, creando APIs, aplicaciones web,
-automatizaciones y soluciones integradas con microcontroladores/IoT. Me destaco por combinar
-visión técnica y funcional para desarrollar soluciones claras y mantenibles.
+Desarrollador / Analista Funcional, con foco en backend, bases de datos y lógica de negocio.
+Cuento con experiencia en el desarrollo, mantenimiento e integración de interfaces, además de
+conocimientos en bases de datos relacionales y no relacionales. También tengo experiencia en
+desarrollo full stack, creando e integrando APIs propias y de terceros, aplicaciones web,
+automatizaciones y soluciones con microcontroladores/IoT. Me destaco por combinar visión
+técnica y funcional para el desarrollo de soluciones escalables y mantenibles.
 
 ---
 
@@ -84,7 +84,7 @@ visión técnica y funcional para desarrollar soluciones claras y mantenibles.
 
 ## Educación
 - **Instituto Gral. Manuel Belgrano** — Pozo del Molle, Córdoba (2004 – 2010)
-- **Ingeniería en Sistemas de Información** — UTN FRVM, Villa María (2013 – 2023)
+- **Ingeniería en Sistemas de Información** — UTN FRVM, Villa María (2013 – 2023) - Pendiente de finalización.
 - **Curso complementario:** Experto en Project Management — UTN FRBA
 
 ---
