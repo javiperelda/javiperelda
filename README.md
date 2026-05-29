@@ -1,20 +1,19 @@
-# Javier Perelda — Desarrollador Backend / Full Stack
+# Javier Perelda — Desarrollador Backend
 
-💻 **Desarrollador Backend / Full Stack** con experiencia en proyectos web, backend y automatizaciones.  
-Apasionado por el software, domótica y por construir soluciones soluciones claras y mantenibles.  
+💻 **Desarrollador Backend** con experiencia en APIs, bases de datos, lógica de negocio, automatizaciones e integraciones. 
+También cuento con conocimientos full stack para crear aplicaciones web completas, desde el diseño de la API hasta la integración con frontend.
 
-📍 Villa María, Córdoba (ARG) · 📞 (0353) 152403325 · ✉️ javierperelda93@gmail.com · 💼 LinkedIn: [linkedin.com/in/javiperelda](https://linkedin.com/in/javiperelda)  
+📍 Villa María, Córdoba (ARG) · ✉️ javierperelda93@gmail.com · 💼 LinkedIn: [linkedin.com/in/javiperelda](https://linkedin.com/in/javiperelda)  
 
 ---
 
 ## Sobre mí
-Desarrollador de software con más de 8 años de experiencia, actualmente desempeñándome como
+Desarrollador de software con más de 9 años de experiencia, actualmente desempeñándome como
 Desarrollador / Analista Funcional, con foco en backend, bases de datos y lógica de negocio.
 Cuento con experiencia en el desarrollo, mantenimiento e integración de interfaces, además de
-conocimientos en bases de datos relacionales y no relacionales. También tengo experiencia en
-desarrollo full stack, creando e integrando APIs propias y de terceros, aplicaciones web,
-automatizaciones y soluciones con microcontroladores/IoT. Me destaco por combinar visión
-técnica y funcional para el desarrollo de soluciones escalables y mantenibles.
+conocimientos en bases de datos relacionales y no relacionales. También tengo experiencia desarrollando aplicaciones full stack,
+APIs REST, integraciones con servicios externos, automatizaciones con Python y proyectos IoT con microcontroladores conectados a aplicaciones. 
+Me destaco por combinar visión técnica y funcional para el desarrollo de soluciones escalables y mantenibles.
 
 ---
 
@@ -38,8 +37,8 @@ técnica y funcional para el desarrollo de soluciones escalables y mantenibles.
 - **Repositorio:** https://github.com/javiperelda/Remember-me.git
 
 
-### :star: [Servicio Tecnico](https://github.com/javiperelda/servicio-tecnico.git)
-- **Servicio Tecnico** es una aplicacion de escritorio desarrollada en Java para administrar la operatoria de un servicio tecnico de equipos y la gestion de clientes, tecnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar informacion del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicacion se conecta a una base de datos PostgreSQL y complementa la gestion con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de informacion para uso administrativo.
+### :star: [Servicio Técnico](https://github.com/javiperelda/servicio-tecnico.git)
+- **Servicio Técnico** es una aplicación de escritorio desarrollada en Java para administrar la operatoria de un servicio técnico de equipos y la gestión de clientes, técnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar información del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicación se conecta a una base de datos PostgreSQL y complementa la gestión con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de información para uso administrativo.
 - **Stack:** Java / Java Swing / PostgreSQL / JasperReports 4.0.2
 - **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
 
@@ -74,11 +73,12 @@ técnica y funcional para el desarrollo de soluciones escalables y mantenibles.
 - Ciclo completo de desarrollo: análisis, diseño, implementación, versionado y despliegue.
 
 ## Tecnologías
-- **Tecnologías:** Python, Java, C#, React.js
+- **Backend:** Python, Java, Spring Boot, Fast API, APIs REST, JWT
+- **Frontend:** React.js, Vite, Material UI, Bootstrap 
 - **Automatización/Test:** Python (Libreria Selenium)  
 - **Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase y MongoDB.  
 - **Control de versiones:** Git, GitHub
-- **IOT/Domótica:** C++ 
+- **IOT/Domótica:** C++
 
 ---
 
