@@ -19,6 +19,28 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 
 ## Proyectos
 
+### :star: [Remember-me](https://github.com/javiperelda/Remember-me.git)
+- **Remember-me** es una aplicación para gestionar recordatorios y eventos de forma simple. Permite cargar tareas escribiendo en lenguaje natural desde un bot de Telegram (por ejemplo: “mañana reunión a las 15”) cuenta con una IA que interpreta texto natural, consultar la agenda por día/semana/mes y recibir avisos antes de cada evento. Incluye sincronización opcional con **Google Calendar** para mantener todo actualizado.Además, ejecuta tareas en segundo plano para enviar avisos de próximos eventos y mantener la sincronización periódica.
+- **Stack:** Python (FastAPI) / PostgreSQL / Telegram Bot / React + Vite / OpenAI (IA) / Google Calendar (sincronización) / Autenticación JWT / Scheduler de recordatorios (jobs en segundo plano)
+- **Repositorio:** https://github.com/javiperelda/Remember-me.git
+
+### :star: [Temaikenfy](https://github.com/javiperelda/temaikenfy)
+- **Temaikenfy** es una aplicación CLI desarrollada en Python para interactuar con la API de Spotify desde la consola. Permite iniciar sesión con OAuth PKCE, buscar artistas, listar álbumes y canciones, consultar playlists, ver canciones guardadas en la biblioteca, obtener top tracks y top artists del usuario, y controlar funciones del reproductor como estado actual, dispositivos disponibles, reproducción en un dispositivo específico, pausa, siguiente/anterior canción, volumen, shuffle, cola de reproducción y canciones reproducidas recientemente. Además, utiliza SQLite para almacenar localmente el token de autenticación y mantener la sesión del usuario.
+- **Stack:** Python / Spotify Web API / OAuth 2.0 PKCE / SQLite
+- **Librerías**: requests, python-dotenv, Rich
+- **Repositorio:** https://github.com/javiperelda/temaikenfy
+
+### :star: [Servicio Técnico](https://github.com/javiperelda/servicio-tecnico.git)
+- **Servicio Técnico** es una aplicación de escritorio desarrollada en Java para administrar la operatoria de un servicio técnico de equipos y la gestión de clientes, técnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar información del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicación se conecta a una base de datos PostgreSQL y complementa la gestión con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de información para uso administrativo.
+- **Stack:** Java / Java Swing / PostgreSQL / JasperReports 4.0.2
+- **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
+
+### :star: [Riego Automático IoT](https://github.com/javiperelda/riego-automatico-IoT.git)
+- **Riego Automático IoT** es un sistema de riego inteligente que integra una aplicación web, una API y un dispositivo físico basado en ESP32 para automatizar y controlar el riego de forma remota. Permite registrar usuarios, dar de alta dispositivos, vincular cada regador mediante un device_id y una device_key, configurar horarios y duración de riegos, ejecutar riego manual desde la web, visualizar el estado online/offline del dispositivo y consultar auditorías de cada ejecución. El proyecto también incluye el prototipo físico del regador, compuesto por una ESP32, relé, bomba de agua, regulador LM2596 y una carcasa diseñada e impresa en 3D con un sistema de encastres para cada uno de los módulos.
+- **Stack:** React + Vite / Material UI (MUI) / React Router / FastAPI / PostgreSQL / SQLAlchemy / JWT / ESP32 (C++)
+- **Repositorio:** https://github.com/javiperelda/riego-automatico-IoT.git
+---
+
 ### :star: [GastaderoApp](https://gastadero-brown.vercel.app)
 - **GastaderoApp** es una aplicación web para organizar gastos compartidos entre varias personas. Permite iniciar sesión con Google, crear grupos, compartir un enlace para que todos registren gastos, y calcular automáticamente cuánto debe o recibe cada integrante con una simplificación de pagos para reducir transferencias; además incluye historial de grupos y exportación del resumen en JPG.
 - **Stack:** React + TypeScript + Vite / Material UI (MUI) / React Router / Firebase (Auth + Firestore) 
@@ -30,24 +52,6 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 - **Stack:** React + Vite / Bootstrap 5 / React Router / Redux + Thunk / Firebase (Auth + Firestore) 
 - **Librerías:** Formik, moment-timezone, Chart.js, SweetAlert2, react-hot-toast
 - **Demo:** https://turnero-digital-deportes.vercel.app/
-
-### :star: [Remember-me](https://github.com/javiperelda/Remember-me.git)
-- **Remember-me** es una aplicación para gestionar recordatorios y eventos de forma simple. Permite cargar tareas escribiendo en lenguaje natural desde un bot de Telegram (por ejemplo: “mañana reunión a las 15”) cuenta con una IA que interpreta texto natural, consultar la agenda por día/semana/mes y recibir avisos antes de cada evento. Incluye sincronización opcional con **Google Calendar** para mantener todo actualizado.Además, ejecuta tareas en segundo plano para enviar avisos de próximos eventos y mantener la sincronización periódica.
-- **Stack:** Python (FastAPI) / PostgreSQL / Telegram Bot / React + Vite / OpenAI (IA) / Google Calendar (sincronización) / Autenticación JWT / Scheduler de recordatorios (jobs en segundo plano)
-- **Repositorio:** https://github.com/javiperelda/Remember-me.git
-
-
-### :star: [Servicio Técnico](https://github.com/javiperelda/servicio-tecnico.git)
-- **Servicio Técnico** es una aplicación de escritorio desarrollada en Java para administrar la operatoria de un servicio técnico de equipos y la gestión de clientes, técnicos, equipos y ordenes de reparacion. Permite registrar, editar, buscar y eliminar información del negocio, hacer seguimiento del estado de las ordenes y consultar datos historicos para mejorar el control del trabajo diario. La aplicación se conecta a una base de datos PostgreSQL y complementa la gestión con reportes generados en JasperReports (como listados de clientes y reportes de ordenes), facilitando tanto la operacion interna como la impresion de información para uso administrativo.
-- **Stack:** Java / Java Swing / PostgreSQL / JasperReports 4.0.2
-- **Repositorio:** https://github.com/javiperelda/servicio-tecnico.git
-
-
-### :star: [Riego Automático IoT](https://github.com/javiperelda/riego-automatico-IoT.git)
-- **Riego Automático IoT** es un sistema de riego inteligente que integra una aplicación web, una API y un dispositivo físico basado en ESP32 para automatizar y controlar el riego de forma remota. Permite registrar usuarios, dar de alta dispositivos, vincular cada regador mediante un device_id y una device_key, configurar horarios y duración de riegos, ejecutar riego manual desde la web, visualizar el estado online/offline del dispositivo y consultar auditorías de cada ejecución. El proyecto también incluye el prototipo físico del regador, compuesto por una ESP32, relé, bomba de agua, regulador LM2596 y una carcasa diseñada e impresa en 3D con un sistema de encastres para cada uno de los módulos.
-- **Stack:** React + Vite / Material UI (MUI) / React Router / FastAPI / PostgreSQL / SQLAlchemy / JWT / ESP32 (C++)
-- **Repositorio:** https://github.com/javiperelda/riego-automatico-IoT.git
----
 
 ## Experiencia
 
