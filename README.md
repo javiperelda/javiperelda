@@ -39,7 +39,6 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 - **Riego Automático IoT** es un sistema de riego inteligente que integra una aplicación web, una API y un dispositivo físico basado en ESP32 para automatizar y controlar el riego de forma remota. Permite registrar usuarios, dar de alta dispositivos, vincular cada regador mediante un device_id y una device_key, configurar horarios y duración de riegos, ejecutar riego manual desde la web, visualizar el estado online/offline del dispositivo y consultar auditorías de cada ejecución. El proyecto también incluye el prototipo físico del regador, compuesto por una ESP32, relé, bomba de agua, regulador LM2596 y una carcasa diseñada e impresa en 3D con un sistema de encastres para cada uno de los módulos.
 - **Stack:** React + Vite / Material UI (MUI) / React Router / FastAPI / PostgreSQL / SQLAlchemy / JWT / ESP32 (C++)
 - **Repositorio:** https://github.com/javiperelda/riego-automatico-IoT.git
----
 
 ### :star: [GastaderoApp](https://gastadero-brown.vercel.app)
 - **GastaderoApp** es una aplicación web para organizar gastos compartidos entre varias personas. Permite iniciar sesión con Google, crear grupos, compartir un enlace para que todos registren gastos, y calcular automáticamente cuánto debe o recibe cada integrante con una simplificación de pagos para reducir transferencias; además incluye historial de grupos y exportación del resumen en JPG.
@@ -52,6 +51,7 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 - **Stack:** React + Vite / Bootstrap 5 / React Router / Redux + Thunk / Firebase (Auth + Firestore) 
 - **Librerías:** Formik, moment-timezone, Chart.js, SweetAlert2, react-hot-toast
 - **Demo:** https://turnero-digital-deportes.vercel.app/
+---
 
 ## Experiencia
 
