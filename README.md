@@ -56,7 +56,7 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 ## Experiencia
 
 ### BITS S.A — Villa María, Cba. (Nov 2017 – Actualidad)
-**Developer / Analista Funcional — Encargado de Módulo Logística**
+**Desarrollador / Analista Funcional – Responsable del Módulo de Logística**
 - Diseño, desarrollo y mantenimiento de **interfaces, packages, funciones, triggers, stored procedures y jobs** en **Oracle** y **SQL Server** (SQL / PL/SQL).
 - Diseño, desarrollo y mantenimiento de **interfaces** en *C#*.
 - Desarrollo en **Clarion** de sistemas internos de escritorio (ADMIS) para la gestión del negocio agroindustrial, especialmente en **logística, acopios y puertos**.
@@ -68,19 +68,19 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 
 ---
 
-### Desarrollador de Software Freelance (2016 – Actualidad)
-- Desarrollo de soluciones **web, backend y escritorio**.
+### Backend Developer Freelance (2016 – Actualidad)
 - Diseño e implementación de APIs REST e integraciones con bases de datos.
 - Desarrollo de **APIs REST** para integración de servicios y bases de datos.
 - Automatización de procesos, integración de sistemas y extracción de información desde distintas plataformas.
 - Desarrollo de proyectos IoT/domótica con microcontroladores integrados a aplicaciones web y APIs REST.
-- Ciclo completo de desarrollo: análisis, diseño, implementación, versionado y despliegue.
+- Análisis, diseño, implementación, versionado y despliegue.
 
 ## Tecnologías
-- **Backend:** Python, Java, Spring Boot, Fast API, APIs REST, JWT
+- **Backend:** Python, Java, Spring Boot, FastAPI, APIs REST, SQLAlchemy, Hibernate, JWT
 - **Frontend:** React.js, Vite, Material UI, Bootstrap 
-- **Automatización/Test:** Python (Libreria Selenium)  
-- **Bases de datos:** PostgreSQL, Oracle, SQL Server, Firebase y MongoDB.  
+- **Bases de datos:** Oracle, PostgreSQL, SQL Server, MongoDB y Firebase/Firestore
+- **Lenguajes de base de datos:** SQL y PL/SQL
+- **Integraciones y automatización:** Selenium, APIs de terceros, procesamiento de datos.
 - **Control de versiones:** Git, GitHub
 - **IOT/Domótica:** C++
 
