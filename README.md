@@ -11,9 +11,9 @@ También cuento con conocimientos full stack para crear aplicaciones web complet
 Desarrollador de software con más de 9 años de experiencia, actualmente desempeñándome como
 Desarrollador / Analista Funcional, con foco en backend, bases de datos y lógica de negocio.
 Cuento con experiencia en el desarrollo, mantenimiento e integración de interfaces, además de
-conocimientos en bases de datos relacionales y no relacionales. También tengo experiencia desarrollando aplicaciones full stack,
+sólidos conocimientos en bases de datos relacionales y no relacionales. También tengo experiencia desarrollando aplicaciones full stack,
 APIs REST, integraciones con servicios externos, automatizaciones con Python y proyectos IoT con microcontroladores conectados a aplicaciones. 
-Me destaco por combinar visión técnica y funcional para el desarrollo de soluciones escalables y mantenibles.
+Me destaco por combinar conocimientos técnicos y funcionales para construir soluciones mantenibles, integradas y orientadas a las necesidades del negocio.
 
 ---
 
