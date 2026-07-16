@@ -94,7 +94,7 @@ Me destaco por combinar visión técnica y funcional para el desarrollo de soluc
 ---
 
 ## Idiomas
-- **Inglés:** nivel intermedio - B1
+- **Inglés:** nivel intermedio alto - B2
 
 ---
 
